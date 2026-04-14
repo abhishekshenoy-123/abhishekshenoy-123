@@ -6,7 +6,13 @@
 </p>
 
 ---
+<div align="center">
 
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
 ### 🧠 About Me
 
 🎓 B.E student at **St Joseph Engineering College(Mangalore)** (CGPA: 8.74/10)<br>
