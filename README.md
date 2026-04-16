@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm  R Abhishek Shenoy</h1>
 <h3 align="center">A passionate Java & Spring Boot Developer from Mangalore, India 🇮🇳</h3>
+
+
 <p align="center">
   • <a href="mailto:abhishekshenoy2004@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/abhishek-shenoy-b28aab3bb/">LinkedIn</a> 
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4483BE&center=true&vCenter=true&width=600&lines=Spring+Boot+Java+Developer;Building+Scalable+Backend+Applications;Microservices+%7C+REST+APIs+%7C+Security;Always+Learning+New+Technologies!" alt="Typing SVG" /> 
-  ---
-</p>
 
+</p>
 
 <div align="center">
 
@@ -18,6 +21,9 @@
 <img src="https://komarev.com/ghpvc/?username=abhishekshenoy-123&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
 
 </div>
+
+---
+
 ### 🧠 About Me
 
 🎓 B.E student at **St Joseph Engineering College(Mangalore)** (CGPA: 8.74/10)<br>
