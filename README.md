@@ -7,20 +7,12 @@
   <a href="https://www.linkedin.com/in/abhishek-shenoy-b28aab3bb/">LinkedIn</a> 
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4483BE&center=true&vCenter=true&width=600&lines=Spring+Boot+Java+Developer;Building+Scalable+Backend+Applications;Microservices+%7C+REST+APIs+%7C+Security;Always+Learning+New+Technologies!" alt="Typing SVG" /> 
 
 </p>
 
 <div align="center">
-
-### ✨ Visitors Count ✨
-
-<img src="https://komarev.com/ghpvc/?username=abhishekshenoy-123&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
-
-</div>
 
 ---
 
@@ -58,6 +50,14 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+---
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=abhishekshenoy-123&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
 
 ---
 
