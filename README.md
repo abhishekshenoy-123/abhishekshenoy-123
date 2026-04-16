@@ -45,13 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 ### ✨ Visitors Count ✨
 
