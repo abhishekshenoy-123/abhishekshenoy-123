@@ -56,6 +56,14 @@
 ### ✨ Visitors Count ✨
 
 <img src="https://komarev.com/ghpvc/?username=abhishekshenoy-123&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+</br>
+&nbsp;
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abhishekshenoy-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
@@ -69,3 +77,5 @@
 </a>
 
 </p>
+
+
