@@ -45,7 +45,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" height="180"/>
+  <img width="45%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=abhishekshenoy-123&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=70a5fd&cache_seconds=43200" />
+  &nbsp;
+  &nbsp;
+  <img width="48%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://streak-stats.demolab.com?user=abhishekshenoy-123&theme=tokyonight&hide_border=false&border=70a5fd&cache_seconds=43200" />
 </p>
 
 ---
