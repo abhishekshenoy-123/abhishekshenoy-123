@@ -55,6 +55,22 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekshenoy-123&theme=tokyonight" />
+</p>
+
+---
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekshenoy-123&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=30&margin-h=30" />
+</p>
+---
+
 <div align="center">
 
 ### ✨ Visitors Count ✨
