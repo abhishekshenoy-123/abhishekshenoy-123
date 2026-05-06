@@ -17,7 +17,7 @@
 🎓 B.E student at **St Joseph Engineering College(Mangalore)** (CGPA: 8.74/10)<br>
 💻 Skilled in **Java, Spring boot, MYSQL, and PL/SQL**<br>
 🚀 Passionate about **building secured sofware using Java based Technologies**<br>
-📍 Based in **Mangalore, Karnataka**<br>
+📍 Based in **Mangalore**<br>
 
 ---
 
